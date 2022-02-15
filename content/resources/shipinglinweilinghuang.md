@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Example of student work for a course project on an internet flea market.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-297-special-problems-in-architecture-studies-fall-2000/1f37a148df1b16f2ffec9a64bbe8b672_ShipingLinWeilingHuang.pdf
+file: /media/courses/4-297-special-problems-in-architecture-studies-fall-2000/1f37a148df1b16f2ffec9a64bbe8b672_ShipingLinWeilingHuang.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Seasons Exchange
 uid: 1f37a148-df1b-16f2-ffec-9a64bbe8b672
