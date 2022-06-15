@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of required and suggested readings for
+  the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
