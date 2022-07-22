@@ -6,6 +6,7 @@ file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/2a67b033
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Web Site Architecture for Marketplace
 uid: 2a67b033-af59-871f-60f8-dc2a6ca3c843
 ---
 Example of student work for a course project on a web site architecture for a marketplace.
-

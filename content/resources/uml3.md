@@ -5,6 +5,7 @@ file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/895991ce
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lab Two: Introduction to UML'
 uid: 895991ce-4cf8-d6df-eec4-9a5cc7a4a7ed
 ---
 Lab exercise on the Unified Modeling Language (UML).
-

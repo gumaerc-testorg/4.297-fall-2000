@@ -5,6 +5,7 @@ file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/f35efdb7
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lab One: Introduction to XML'
 uid: f35efdb7-46f0-f4b7-7f89-f93f52b9a6ea
 ---
 Lab exercise on the Extensible Markup Language (XML).
-

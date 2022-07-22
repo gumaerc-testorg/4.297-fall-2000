@@ -6,6 +6,7 @@ file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/b199c543
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: REIT 2 Strategic consultants
 uid: b199c543-1629-d764-c712-cb90b691b55d
 ---
 Example of student work for a course project on real estate investment trusts (REITs).
-
