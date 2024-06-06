@@ -3,6 +3,7 @@ content_type: resource
 description: Example of student work for a course project on a web-based bidding market
   for the construction industry.
 file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/ee44b14e5d7d8adc118ad907511e8caf_AnthonyGuaraldoJasonHart.pdf
+file_size: 72299
 file_type: application/pdf
 learning_resource_types:
 - Projects

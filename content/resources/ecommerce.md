@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout on E-commerce prototype sites.
 file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/0745a2c59b1f74840fc796de5af4bffc_ECommerce.pdf
+file_size: 38824
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
