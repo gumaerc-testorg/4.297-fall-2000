@@ -2,7 +2,7 @@
 content_type: resource
 description: Lab assignment on writing Java applets and GUI programs that generate
   XML.
-file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/81fb9bd75f1f5c50f8ed0d298b6cfd42_Java.pdf
+file: /ol-ocw-studio-app/courses/4-297-special-problems-in-architecture-studies-fall-2000/81fb9bd75f1f5c50f8ed0d298b6cfd42_Java.pdf
 file_size: 213298
 file_type: application/pdf
 learning_resource_types:
