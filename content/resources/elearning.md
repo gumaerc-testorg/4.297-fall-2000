@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout on E-learning prototype sites.
-file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/8131ef4563d9ebb43c8d1ce94b64e4ee_ELearning.pdf
+file: /ol-ocw-studio-app/courses/4-297-special-problems-in-architecture-studies-fall-2000/8131ef4563d9ebb43c8d1ce94b64e4ee_ELearning.pdf
 file_size: 40525
 file_type: application/pdf
 learning_resource_types: []
