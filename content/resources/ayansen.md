@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for a course project on real estate investment
   trusts (REITs).
-file: /ol-ocw-studio-app/courses/4-297-special-problems-in-architecture-studies-fall-2000/b199c5431629d764c712cb90b691b55d_AyanSen.pdf
+file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/b199c5431629d764c712cb90b691b55d_AyanSen.pdf
 file_size: 167035
 file_type: application/pdf
 learning_resource_types:

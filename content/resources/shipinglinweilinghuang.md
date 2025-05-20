@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for a course project on an internet flea market.
-file: /ol-ocw-studio-app/courses/4-297-special-problems-in-architecture-studies-fall-2000/1f37a148df1b16f2ffec9a64bbe8b672_ShipingLinWeilingHuang.pdf
+file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/1f37a148df1b16f2ffec9a64bbe8b672_ShipingLinWeilingHuang.pdf
 file_size: 163191
 file_type: application/pdf
 learning_resource_types:
