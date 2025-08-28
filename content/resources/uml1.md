@@ -2,11 +2,11 @@
 content_type: resource
 description: "Lecture presentation on object-oriented analysis, the Unified Modeling\
   \ Language, use cases, business transaction scenarios, and use case models.\r\n"
-file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/d479df419f4158e7aa0c19810a6e0166_UML1.pdf
+file: /ol-ocw-studio-app/courses/4-297-special-problems-in-architecture-studies-fall-2000/d479df419f4158e7aa0c19810a6e0166_UML1.pdf
 file_size: 244461
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

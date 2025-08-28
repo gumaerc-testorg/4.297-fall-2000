@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Lab exercise on the Extensible Markup Language (XML).
-file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/f35efdb746f0f4b77f89f93f52b9a6ea_XML.pdf
+file: /ol-ocw-studio-app/courses/4-297-special-problems-in-architecture-studies-fall-2000/f35efdb746f0f4b77f89f93f52b9a6ea_XML.pdf
 file_size: 224367
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

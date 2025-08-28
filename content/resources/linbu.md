@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for a course project on a web site architecture
   for a marketplace.
-file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/2a67b033af59871f60f8dc2a6ca3c843_LinBu.pdf
+file: /ol-ocw-studio-app/courses/4-297-special-problems-in-architecture-studies-fall-2000/2a67b033af59871f60f8dc2a6ca3c843_LinBu.pdf
 file_size: 199253
 file_type: application/pdf
 learning_resource_types:
