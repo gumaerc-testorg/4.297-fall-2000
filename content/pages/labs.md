@@ -3,7 +3,7 @@ content_type: page
 description: This section provides the lab assignments for the course and tutorials
   on Unified Modeling Language (UML).
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 12c081c2-81d6-d879-a99b-30dd7884bf48
