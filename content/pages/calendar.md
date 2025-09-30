@@ -109,7 +109,7 @@ Run Through Example E-Commerce and E-Learning Sites: Discerning the Architecture
 
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631761) Mitchell, William J. _City of Bits_. MIT Press, 1996. ISBN: 9780262631761.
+{{% resource_link "c7915f1e-0e09-4054-99cb-df6bc332ed98" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mitchell, William J. _City of Bits_. MIT Press, 1996. ISBN: 9780262631761.
 {{< tdclose >}}
 {{< tdopen >}}
 
