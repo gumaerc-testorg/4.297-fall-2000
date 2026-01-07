@@ -17,4 +17,4 @@ Lab Three: Writing Java Applets and GUI Programs that Generate XML ({{% resource
 
 UML and Use Cases for Object-oriented Analysis ({{% resource_link d479df41-9f41-58e7-aa0c-19810a6e0166 "PDF" %}})
 
-{{% resource_link "25e547a6-98d6-4d4c-96c1-f4aac65fa0cf" "Structuring Specification of Business Systems with UML" %}}
+[Structuring Specification of Business Systems with UML](http://sourcemaking.com/uml/modeling-business-systems/business-processes-and-business-systems)
